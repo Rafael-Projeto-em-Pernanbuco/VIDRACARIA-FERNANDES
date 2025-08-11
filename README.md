@@ -107,7 +107,7 @@
     <h2>Entre em Contato</h2>
     <p>Fale conosco pelo WhatsApp!</p>
     <!-- Link de exemplo, substitua o número abaixo pelo seu -->
-    <a class="whatsapp-chat" href="https://wa.me/(87)9 9909-8474" target="_blank">💬 WhatsApp</a>
+    <a class="whatsapp-chat" href="https://wa.me/+55(87)9 9909-8474" target="_blank">💬 WhatsApp</a>
   </section>
 
   <!-- Google Tradutor -->
